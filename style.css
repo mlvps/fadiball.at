@@ -752,7 +752,7 @@ Main components
   width: 50%;
 }
 .ig {
-  transform: scale(10%);
+  scale: 10%;
   margin-top: -100px;
   margin-bottom: -200px;
 }
